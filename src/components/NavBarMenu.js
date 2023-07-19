@@ -2,7 +2,7 @@ import { Container, Navbar } from "react-bootstrap";
 
 export default function NavBarMenu() {
     return(
-        <div>
+        <div id="navbarmenu">
             <Navbar bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand href="#!">
@@ -12,7 +12,7 @@ export default function NavBarMenu() {
                     <Navbar.Collapse className="justify-content-end">
                         <Navbar.Text>
                             Signed in as: {" "}
-                            <a href="https://gmail.com" target="_blank" rel="noreferrer"> Iván Devia</a>
+                            <a href="https://gmail.com" target="_blank" rel="noreferrer"> Johan Navarro</a>
                         </Navbar.Text>
                     </Navbar.Collapse>
                 </Container>

@@ -11,13 +11,13 @@ export default function Introduction() {
                             <span className="pt-2 pb-4">that you will do everything that you want</span>
                         </h1>
                         <h4 className="d-flex container-actions mt-5">
-                            Hi, I'm Iván Devia, im 38 years old and i like make programs an develop with js and JAVA. I like play BaseBall y play drums.
+                        Hi, I'm Johan Navarro, im 39 years old and i like make programs an develop with REACT. I like play Football and Billiard pool.
                         </h4>
                         <div className="d-flex container-actions mt-5">
                             <div className="container-buttons">
                                 <Button
                                     className="p-3"
-                                    onClick={() => console.log("click button1")}
+                                    onClick={() => window.location='#services'}
                                 >Get in touch</Button>
                                 <Button className="p-3">Get in touch</Button>
                             </div>

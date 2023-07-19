@@ -16,3 +16,15 @@
     font-weight: 700;
     font-size: 22px;
 }
+
+.centrar-enlace {
+    margin-top: 30px;
+    text-align: center;
+}
+
+img {
+    border: 5px solid darkblue;
+    height: 180px;
+    width: 180px;
+}
+
