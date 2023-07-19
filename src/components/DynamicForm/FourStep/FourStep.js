@@ -11,12 +11,12 @@ import Resume from "../Resume";
 import Select from "react-select";
 
 const options=[
-    {id:1, value:"Science fiction", label:"Science fiction 🛸"},
-    {id:2, value:"Comedy ", label:"Comedy  🃏"},
-    {id:3, value:"Horror ", label:"Horror  😨"},
-    {id:4, value:"Adventure ", label:"Adventure  🏃‍♂️"},
-    {id:5, value:"Action ", label:"Action  🥷"},
-    {id:5, value:"Action ", label:"Action  🥷"},
+    {id:1, value:"Comida Italiana", label:"Comida Italiana 🍕"},
+    {id:2, value:"Comida Asiatica", label:"Comida Asiatica  🍜"},
+    {id:3, value:"Comida Francesa", label:"Comida Francesa  🥐"},
+    {id:4, value:"Comida Mexicana", label:"Comida Mexicana  🌮"},
+    {id:5, value:"Comida Española", label:"Comida Española  🥘"},
+    {id:6, value:"Comida Colombiana", label:"Comida Colombiana  🍲"},
 ];
 
 export default function FourStep({setStep}) {
