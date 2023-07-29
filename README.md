@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -78,3 +79,7 @@ Formulario Dinamico en React
 # Dynamic-Form
 Formulario Dinamico en React - Proyecto del Diplomado
 >>>>>>> a36861f5d5bc7e6bd41775b55a66d00fbb2882b7
+=======
+# Dynamic-Form
+Formulario Dinamico en React - Proyecto del Diplomado
+>>>>>>> f43fb03f8201efb2679611a2eb7ec2e5bc19caf5
